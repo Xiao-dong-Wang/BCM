@@ -1,0 +1,4 @@
+funct = 'branin'
+num = 80
+bounds = [[-5,10], [0,15]]
+bfgs_iter = [2000]

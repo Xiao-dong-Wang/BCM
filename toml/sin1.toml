@@ -1,0 +1,4 @@
+funct = 'sin1'
+num = 20
+bounds = [[0,1]]
+bfgs_iter = [2000]
