@@ -1,0 +1,2 @@
+# BCM
+Bayesian committee machine
